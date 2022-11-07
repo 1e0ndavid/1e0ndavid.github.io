@@ -1,7 +1,7 @@
 ---
 title: "深入浅出Pytorch"
 style: post
-categories: Pytorch
+tags: Pytorch
 ---
 
 没有系统学习过pytorch，最近复习了tensorflow，趁下班时间把这些pytorch复习一下。
