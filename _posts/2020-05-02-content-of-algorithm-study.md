@@ -1,7 +1,7 @@
 ---
 title: "A content of algorithm study，算法学习文章索引"
 style: post
-categories: Leetcode algorithm
+tags: Leetcode algorithm
 ---
 
 16种模式：

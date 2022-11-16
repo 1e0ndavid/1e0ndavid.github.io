@@ -1,7 +1,7 @@
 ---
 title: "A Summary of Dynamic Programming，动态规划总结"
 style: post
-categories: Leetcode dp
+tags: Leetcode dp
 ---
 
 对一个初高中甚至大学都没有接触计算机算法竞赛的我来说，动态规划还是需要用心才能理解的，所以要总结一下。该文章某些部分取自刘汝佳的《算法竞赛入门经典（第2版）》

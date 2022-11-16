@@ -1,7 +1,7 @@
 ---
 title: "NeurIPS 2020 NLP Papers"
 style: post
-categories: NLP Papers NeurIPS
+tags: NLP Papers NeurIPS
 ---
 
 1. ConvBERT: Improving BERT with Span-based Dynamic Convolution

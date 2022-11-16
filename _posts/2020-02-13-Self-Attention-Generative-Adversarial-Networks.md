@@ -2,7 +2,7 @@
 title:  "Self-Attention Generative Adversarial Nets"
 mathjax: true
 layout: post
-categories: GAN
+tags: GAN
 ---
 <center><font size="6">自注意力生成对抗网络</font></center>
 

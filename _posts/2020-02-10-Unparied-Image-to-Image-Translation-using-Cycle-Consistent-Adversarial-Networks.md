@@ -2,7 +2,7 @@
 title:  "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks"
 mathjax: true
 layout: post
-categories: GAN
+tags: GAN
 ---
 <center><font size="6">使用循环一致对抗网络的非配对图像到图像转换翻译</font></center>
 
