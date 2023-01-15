@@ -36,11 +36,8 @@ key: page-about
             <hr>
             <h1>Jianbo Dai</h1>
             <p>
-                <img src="../assets/photo.jpg" alt="me" width="240" align ="right">
-                Hello! I am an Artificial Intelligence MSc student in <a href="http://www.inf.ed.ac.uk/">School of Informatics</a> of <a href="http://www.ed.ac.uk/">University of Edinburgh</a> where I learned machine learning and natural language processing. I get a distinction degree at UoE. Previously, I had bachelors in <a href="https://www.manchester.ac.uk">University of Manchester</a> and <a href="http://en.dlut.edu.cn">Dalian University of Technology</a> but majored in Chemical Engineering. Now I am luckily supervised by <a href="http://homepages.inf.ed.ac.uk/sgwater/">Sharon Golderwater</a> for my master project on Morphological Analysis and Lemmatization, in addition, I am doing summer research which is relevant to semantic parsing of SQL with Yale LILY Group. My research interest basically falls in neural semantic parsing.
-                <br>
-                <br>
-                I'm am looking forward to finding an algorithm engineering full-time job in the future.
+                <img src="./assets/images/profile/me.jpg" alt="me" width="240" align ="right">
+                Hello! I am a research engineer focusing on NLP at Huawei Noah's Ark Lab. I Got my Master Degree in Artificial Intelligence from <a href="http://www.inf.ed.ac.uk/">School of Informatics</a> of <a href="http://www.ed.ac.uk/">University of Edinburgh</a> where I learned machine learning and natural language processing. Previously, I had bachelors in <a href="https://www.manchester.ac.uk">University of Manchester</a> and <a href="http://en.dlut.edu.cn">Dalian University of Technology</a> but majored in Chemical Engineering. I used to be luckily supervised by <a href="http://homepages.inf.ed.ac.uk/sgwater/">Sharon Golderwater</a> for my master project on Morphological Analysis and Lemmatization. I also had an experience of doing summer research about semantic parsing of SQL with researchers from Yale LILY Group. My research interest basically falls in code intelligence and foundation models(LLM).
                 <br>
                 <br>
                 To find more information about me, you can take a look at my CV (<a href="https://github.com/1e0ndavid/1e0ndavid.github.io/blob/master/assets/CV/CV_EN_1_3.pdf">English</a>
@@ -69,6 +66,7 @@ key: page-about
                     <a href="papers/acl19-pastTense.pdf"><b>paper name 1</b></a>.&nbsp;authors.
                      In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i>.  2019.
                 </li>
+<<<<<<< Updated upstream
                 <li>
                     <a href="papers/naacl19-sp2txtPretraining.pdf"><b>paper name 2</b></a>.&nbsp;anthors.
                      In <i>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</i>.  2019.
@@ -77,6 +75,8 @@ key: page-about
                     <a href="papers/naacl19-lematusSemiSup.pdf"><b>paper name 3</b></a>.&nbsp;authors.
                      In <i>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</i>.  2019.
                 </li>
+=======
+>>>>>>> Stashed changes
             </ul>
             <p> </p>
             <h2>Contact information</h2>
