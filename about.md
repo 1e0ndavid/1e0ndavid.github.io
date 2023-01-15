@@ -66,17 +66,6 @@ key: page-about
                     <a href="papers/acl19-pastTense.pdf"><b>paper name 1</b></a>.&nbsp;authors.
                      In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i>.  2019.
                 </li>
-<<<<<<< Updated upstream
-                <li>
-                    <a href="papers/naacl19-sp2txtPretraining.pdf"><b>paper name 2</b></a>.&nbsp;anthors.
-                     In <i>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</i>.  2019.
-                </li>
-                <li>
-                    <a href="papers/naacl19-lematusSemiSup.pdf"><b>paper name 3</b></a>.&nbsp;authors.
-                     In <i>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</i>.  2019.
-                </li>
-=======
->>>>>>> Stashed changes
             </ul>
             <p> </p>
             <h2>Contact information</h2>
