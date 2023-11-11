@@ -36,7 +36,7 @@ key: page-about
             <hr>
             <h1>Jianbo Dai</h1>
             <p>
-                <img src="./assets/images/qrcode/0930_valid.jpg" alt="qrcode" width="240" align ="right">
+                <img src="./assets/images/profile/me.png" alt="profile" width="240" align ="right">
                 Hello! I am a research engineer focusing on NLP at <a href="https://www.noahlab.com.hk/#/home">Huawei Noah's Ark Lab</a>. I Got my Master Degree in Artificial Intelligence from <a href="http://www.inf.ed.ac.uk/">School of Informatics</a> of <a href="http://www.ed.ac.uk/">University of Edinburgh</a> where I learned machine learning and natural language processing. Previously, I had bachelors in <a href="https://www.manchester.ac.uk">University of Manchester</a> and <a href="http://en.dlut.edu.cn">Dalian University of Technology</a> but majored in Chemical Engineering. I used to be luckily supervised by <a href="http://homepages.inf.ed.ac.uk/sgwater/">Sharon Golderwater</a> for my master project on Morphological Analysis and Lemmatization. I also had an experience of doing summer research about semantic parsing of SQL with researchers from Yale LILY Group. My research interest basically falls in code intelligence and foundation models(LLM).
                 <br>
                 <br>
