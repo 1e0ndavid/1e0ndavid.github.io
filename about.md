@@ -36,7 +36,7 @@ key: page-about
             <hr>
             <h1>Jianbo Dai</h1>
             <p>
-                <img src="./assets/images/profile/me.png" alt="profile" width="240" align ="right">
+                <img src="./assets/images/profile/me.png" alt="profile" width="120" align ="right">
                 Hello! I am a research engineer focusing on NLP at <a href="https://www.noahlab.com.hk/#/home">Huawei Noah's Ark Lab</a>. I Got my Master Degree in Artificial Intelligence from <a href="http://www.inf.ed.ac.uk/">School of Informatics</a> of <a href="http://www.ed.ac.uk/">University of Edinburgh</a> where I learned machine learning and natural language processing. Previously, I had bachelors in <a href="https://www.manchester.ac.uk">University of Manchester</a> and <a href="http://en.dlut.edu.cn">Dalian University of Technology</a> but majored in Chemical Engineering. I used to be luckily supervised by <a href="http://homepages.inf.ed.ac.uk/sgwater/">Sharon Golderwater</a> for my master project on Morphological Analysis and Lemmatization. I also had an experience of doing summer research about semantic parsing of SQL with researchers from Yale LILY Group. My research interest basically falls in code intelligence and foundation models(LLM).
                 <br>
                 <br>
@@ -45,36 +45,42 @@ key: page-about
             </p>
         </div>
         <div style="clear: left; padding-top: 1ex;">
-            <h2>Main content</h2>
+            <h2>News</h2>
             <p> </p>
             <ul>
                 <li>
-                    <a href="publication.html">About me</a>: research interests, biography.
-                </li>
-                <li>
-                    <a href="publication.html">Publications</a>: complete list.
-                </li>
-            </ul>
-            <p> </p>
-            <h2>Recent highlights</h2>
-            <p> </p>
-            <ul>
-                <li>
-										One paper is just submitted to 2021 NAACL-HLT.
+										Sep 26, 2024  Three papers are accepted at <a href="https://nips.cc/virtual/2024/papers.html?filter=titles">NeurIPS 2024</a>
 								</li>
-								<li>
-                    <a href="papers/acl19-pastTense.pdf"><b>paper name 1</b></a>.&nbsp;authors.
-                     In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i>.  2019.
-                </li>
             </ul>
             <p> </p>
-            <h2>Contact information</h2>
+            <h2>Publications</h2>
+            <p> </p>
+            <ul>
+              <li>
+                <strong>EffiLearner: Enhancing Efficiency of Generated Code via Self-Optimization</strong><br>
+                Dong HUANG*, Jianbo Dai*, Han Weng, Puzhen Wu, Yuhao QING, Heming Cui, Zhijiang Guo, Jie Zhang<br>
+                Accepted at <em>NeurIPS 2024</em><br>
+                <img src="./assets/images/paper_figs/effilearner.png" alt="effilearner" width="100"><br>
+                <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/99c66755871ae101a4cef87c67fb29e8-Abstract-Conference.html">[Paper Link]</a>
+              </li>
+              <li>
+                <strong>AutoPSV: Automated Process-Supervised Verifier</strong><br>
+                Jianqiao Lu, Zhiyang Dou, Hongru WANG, Zeyu Cao, Jianbo Dai, Yunlong Feng, Zhijiang Guo<br>
+                Accepted at <em>NeurIPS 2024</em><br>
+                <img src="./assets/images/paper_figs/autopsv.png" alt="autopsv" width="100"><br>
+                <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/9246aa822579d9b29a140ecdac36ad60-Abstract-Conference.html">[Paper Link]</a>
+              </li>
+              <li>
+                <strong>MR-Ben: A Meta-Reasoning Benchmark for Evaluating System-2 Thinking in LLMs</strong><br>
+                Zhongshen Zeng, Yinhong Liu, Yingjia Wan, Jingyao Li, Pengguang Chen, Jianbo Dai, Yuxuan Yao, Rongwu Xu, Zehan Qi, Wanru Zhao, Linling Shen, Jianqiao Lu, Haochen Tan, Yukang Chen, Hao Zhang, Zhan Shi, Bailin Wang, Zhijiang Guo, Jiaya Jia<br>
+                Accepted at <em>NeurIPS 2024</em><br>
+                <img src="./assets/images/paper_figs/mrben.png" alt="mrben" width="100"><br>
+                <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/d81cb1f4dc6e13aeb45553f80b3d6837-Abstract-Conference.html">[Paper Link]</a>
+              </li>
+            </ul>
+            <p> </p>
+            <h2>Contact Information</h2>
             <p>
-                13.4/1 Meadow Court<br>
-                13-29 Sciennes<br>
-                Edinburgh, EH9 1NJ<br>
-                United Kingdom<br>
-                (+44) 07913109707<br>
                 email me here: jianbodai819@gmail.com<br>
             </p>
             <hr>
