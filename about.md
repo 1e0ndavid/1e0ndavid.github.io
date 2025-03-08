@@ -1,5 +1,6 @@
 ---
 layout: article
+hide_title: true
 key: page-about
 ---
 
